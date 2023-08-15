@@ -1,0 +1,18 @@
+How to create PyTorch model:
+
+$ python create_pt.py
+
+How to run the PyTorch model:
+
+$ python pt.py
+
+How to create ONNX model:
+
+$ python create_onnx.py
+
+How to run the ONNX model:
+
+$ python ort.py
+
+
+You can use bench.sh to run it in many times and use Excel for analysis.
